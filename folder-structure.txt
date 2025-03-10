@@ -1,0 +1,104 @@
+Folder PATH listing for volume Windows
+Volume serial number is 6E64-BC57
+C:\USERS\ELI\DOCUMENTS\RABBITBYTES
+|   .gitignore
+|   404.html
+|   about.markdown
+|   folder-structure.txt
+|   Gemfile
+|   Gemfile.lock
+|   images.html
+|   index.html
+|   index.markdown
+|   projects.html
+|   _config.yml
+|   
++---.jekyll-cache
+|   |   .gitignore
+|   |   
+|   \---Jekyll
+|       \---Cache
+|           +---Jekyll--Cache
+|           |   \---b7
+|           |           9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
+|           |           
+|           \---Jekyll--Converters--Markdown
+|               +---0b
+|               |       4842ab6db36fe6ed779a2d5d1e5b2f96e483376f28fbc96415ea78e4d9e662
+|               |       
+|               +---4e
+|               |       fca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1
+|               |       
+|               +---4f
+|               |       b9713c4ffc94138ed7c07809bba8910d08e4ee493628e443fc83ad5134c1df
+|               |       
+|               +---63
+|               |       7e252fa8460c2278df772e6dfbf4934329e2f03a9174070b70d0883886b435
+|               |       
+|               +---64
+|               |       415bb89c72690689066a644c02dc1765220435c5afc43641ea8ae770a61c01
+|               |       
+|               +---ca
+|               |       b8b278c7e75237af7ad8243b9c3bcb930892a05977cdc36c8f5e36f4599f7b
+|               |       
+|               +---e3
+|               |       b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+|               |       
+|               +---e8
+|               |       5c06a062afbbf3b77f98822db8ac4c3006e166b55bf5e0e13932cb0edd8194
+|               |       
+|               \---fd
+|                       aa4200cef2544ec568b25970b3a49cf9b4f3d7015485506ccda914caf9c5b9
+|                       
++---assets
+|   +---css
+|   |       styles.css
+|   |       
+|   +---images
+|   |       charmeleon-ec.png
+|   |       clefairy-ec.png
+|   |       rabbit-logo-dall-e.webp
+|   |       togepi-ec.jpg
+|   |       varied-rabbit-logos.webp
+|   |       
+|   \---js
+|           script.js
+|           
++---_posts
+|       2025-03-10-welcome-to-jekyll.markdown
+|       
+\---_site
+    |   404.html
+    |   feed.xml
+    |   images.html
+    |   index.html
+    |   projects.html
+    |   
+    +---about
+    |       index.html
+    |       
+    +---assets
+    |   |   main.css
+    |   |   main.css.map
+    |   |   minima-social-icons.svg
+    |   |   
+    |   +---css
+    |   |       styles.css
+    |   |       
+    |   +---images
+    |   |       charmeleon-ec.png
+    |   |       clefairy-ec.png
+    |   |       rabbit-logo-dall-e.webp
+    |   |       togepi-ec.jpg
+    |   |       varied-rabbit-logos.webp
+    |   |       
+    |   \---js
+    |           script.js
+    |           
+    \---jekyll
+        \---update
+            \---2025
+                \---03
+                    \---10
+                            welcome-to-jekyll.html
+                            
